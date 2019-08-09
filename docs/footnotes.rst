@@ -1,6 +1,6 @@
 
 .. rubric:: First, update your repositories list:
 
-.. pi@raspberrypi:~$ sudo apt update.
+.. [f]pi@raspberrypi:~$ sudo apt update.
 
 
